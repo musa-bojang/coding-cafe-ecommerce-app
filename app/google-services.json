@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538903986216",
+    "firebase_url": "https://hexiamart.firebaseio.com",
+    "project_id": "hexiamart",
+    "storage_bucket": "hexiamart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538903986216:android:5743a1eb29d330bbbe351d",
+        "android_client_info": {
+          "package_name": "com.example.hexiamart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538903986216-0474hamh451dcaf2k6p0agabi6urla4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Puy_HU31aeGVhwgZfvJrBe1RLfFlQnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538903986216-0474hamh451dcaf2k6p0agabi6urla4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
